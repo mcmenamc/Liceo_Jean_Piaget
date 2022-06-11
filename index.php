@@ -154,7 +154,7 @@
                 <div class="row">
                     <div class="mission-img col-lg-6 col-md-12 left-wrapper">
                         <div class="about-img position-relative" data-aos="zoom-in" data-aos-delay="800">
-                            <img src="./assets/img/Collage2.png" alt="mission" class="img-fluid rounded mx-auto d-block">
+                            <img src="./assets/img/Collage2.PNG" alt="mission" class="img-fluid rounded mx-auto d-block">
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12 pt-md-5 right-wrapper">
@@ -183,7 +183,7 @@
                     </div> 
                     <div class="vision-img col-lg-6 col-md-12 left-wrapper">
                         <div class="about-img position-relative" data-aos="zoom-in" data-aos-delay="800">
-                            <img src="./assets/img/Collage3.png" alt="mission" class="img-fluid rounded mx-auto d-block">
+                            <img src="./assets/img/Collage3.PNG" alt="mission" class="img-fluid rounded mx-auto d-block">
                         </div>
                     </div>                    
                 </div>                
